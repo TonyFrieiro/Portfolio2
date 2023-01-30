@@ -22,7 +22,7 @@ function Education(){
                     <div className="tarjetaE">
                         <div className="ajustes">
                             <div className="container-tarjetaE">
-                                <a href="https://www.coderhouse.com/certificados/62efe126c7dac103e638e0bf" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dthbpblty/image/upload/v1675036799/Mi_proyecto_5_ilpfn4.png" className="imgTarjeta" alt="" /></a>
+                                <a href="https://www.coderhouse.com/certificados/62efe126c7dac103e638e0bf" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dthbpblty/image/upload/v1675096366/Mi_proyecto_6_a6e9yp.png" className="imgTarjeta" alt="" /></a>
                             </div>
                             <div>
                                 <h3 className="subtituloEducation">Curso desarrollo Web</h3>
@@ -33,7 +33,7 @@ function Education(){
                     <div className="tarjetaE">
                         <div className="ajustes">
                             <div className="container-tarjetaE">
-                                <a href="https://www.coderhouse.com/certificados/632dc7fad9f28700040c05de" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dthbpblty/image/upload/v1675036799/Mi_proyecto_5_ilpfn4.png" className="imgTarjeta" alt="" /></a>
+                                <a href="https://www.coderhouse.com/certificados/632dc7fad9f28700040c05de" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dthbpblty/image/upload/v1675096366/Mi_proyecto_6_a6e9yp.png" className="imgTarjeta" alt="" /></a>
                             </div>
                             <div>
                                 <h3 className="subtituloEducation">Curso JavaScript</h3>
@@ -44,7 +44,7 @@ function Education(){
                     <div className="tarjetaE">
                         <div className="ajustes">
                             <div className="container-tarjetaE">
-                                <a href="https://www.coderhouse.com/certificados/634537888b4adb000e538238" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dthbpblty/image/upload/v1675036799/Mi_proyecto_5_ilpfn4.png" className="imgTarjeta" alt="" /></a>
+                                <a href="https://www.coderhouse.com/certificados/634537888b4adb000e538238" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dthbpblty/image/upload/v1675096366/Mi_proyecto_6_a6e9yp.png" className="imgTarjeta" alt="" /></a>
                             </div>
                             <div>
                                 <h3 className="subtituloEducation">Curso React JS</h3>
@@ -55,7 +55,7 @@ function Education(){
                     <div className="tarjetaE">
                         <div className="ajustes">
                             <div className="container-tarjetaE">
-                                <a href="https://www.coderhouse.com/certificados/634537888b4adb000e538238" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dthbpblty/image/upload/v1675036799/Mi_proyecto_5_ilpfn4.png" className="imgTarjeta" alt="" /></a>
+                                <a href="https://www.coderhouse.com/certificados/634537888b4adb000e538238" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dthbpblty/image/upload/v1675096366/Mi_proyecto_6_a6e9yp.png" className="imgTarjeta" alt="" /></a>
                             </div>
                             <div>
                                 <h3 className="subtituloEducation">Curso Backend</h3>
