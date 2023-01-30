@@ -2,7 +2,8 @@
 
 function Footer(){
     return(
-        <div></div>
+        <div className="containerEducation">
+        </div>
     )
 }
 

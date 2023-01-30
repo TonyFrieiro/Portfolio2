@@ -22,20 +22,20 @@ function Navbar(){
             >AboutMe</Link>
             <Link
                 activeClass="active"
+                to="skills-container"
+                spy={true}
+                smooth={true}
+                offset={-70}
+                duration={500}
+            >Skills</Link>
+            <Link
+                activeClass="active"
                 to="contenedor-education"
                 spy={true}
                 smooth={true}
                 offset={-70}
                 duration={500}
             >Education</Link>
-            <Link
-                activeClass="active"
-                to="skills"
-                spy={true}
-                smooth={true}
-                offset={-70}
-                duration={500}
-            >skills</Link>
             <Link
                 activeClass="active"
                 to="proyectos-container"
