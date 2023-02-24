@@ -1,5 +1,5 @@
 import { Link } from "react-scroll";
-import { BsPersonLinesFill,BsTools,BsBookFill,BsLightbulbFill,BsPersonBoundingBox } from "react-icons/bs";
+import { BsPersonLinesFill,BsTools,BsLightbulbFill,BsPersonBoundingBox } from "react-icons/bs";
 import { FaGraduationCap} from "react-icons/fa";
 
 
