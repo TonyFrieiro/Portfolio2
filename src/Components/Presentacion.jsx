@@ -12,7 +12,7 @@ function Presentacion(){
                     <p className="web">Desarrollador web full-stack</p>
                 </div>
                 <div className="container-parrafo">
-                    <p>Estudiante de desarrollo web full stack con amplios conocimientos, ganas de seguir aprendiendo y desarrollarme en el ambito profesional</p>
+                    <p>Desarrollador FullStack con capacidad de continuar aprendiendo y aplicar mis conocimientos al campo profesional.</p>
                 </div>
                 <div className="botonera">
                     <button className="button1">

@@ -4,7 +4,7 @@ function Education(){
     return(
         <div className="containerEducation" id="contenedor-education">
             <div className="tituloAboutMe">
-                <h1>Education</h1>
+                <h1>Educación</h1>
             </div>
             <div className="seccionesEducation">
                 <div className="tarjetasEducation">
@@ -14,7 +14,7 @@ function Education(){
                                 <img src="https://res.cloudinary.com/dthbpblty/image/upload/v1675035624/descarga_preview_rev_1_v8agwo.png" className="imgTarjeta" alt="" />
                             </div>
                             <div>
-                                <h3 className="subtituloEducation">Tecnico en Computacion</h3>
+                                <h3 className="subtituloEducation">Técnico en Computación</h3>
                                 <p>2016 - 2021 (terminado)</p>
                             </div>
                         </div>

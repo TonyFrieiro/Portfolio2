@@ -483,6 +483,7 @@
   .iconoNav{
     
   }
+  
   .tarjetaP{width: 250px;}
 
   .container-img img{
@@ -505,6 +506,18 @@
 }
 
 @media (max-width: 790px) {
+
+  .container-tarjeta{
+    width: 70px;
+    height: 70px;
+  }
+  .tarjeta p{
+    font-size: smaller;
+  }
+
+  .container-tarjetaE{
+    display: none;
+  }
   .iconoNav{
     display: block;
     color: black;

@@ -13,7 +13,7 @@ function Navbar(){
                 smooth={true}
                 offset={-70}
                 duration={500}
-            ><p className="textoNavBar"> Presentacion</p><BsPersonLinesFill size={20} className="iconoNav"></BsPersonLinesFill></Link>
+            ><p className="textoNavBar"> Presentación</p><BsPersonLinesFill size={20} className="iconoNav"></BsPersonLinesFill></Link>
             <Link
                 activeClass="active"
                 to="aboutMe-container"
@@ -21,7 +21,7 @@ function Navbar(){
                 smooth={true}
                 offset={-70}
                 duration={500}
-            ><p className="textoNavBar"> AboutMe </p><BsPersonBoundingBox size={20} className="iconoNav"></BsPersonBoundingBox></Link>
+            ><p className="textoNavBar"> Sobre mi </p><BsPersonBoundingBox size={20} className="iconoNav"></BsPersonBoundingBox></Link>
             <Link
                 activeClass="active"
                 to="skills-container"
@@ -37,7 +37,7 @@ function Navbar(){
                 smooth={true}
                 offset={-70}
                 duration={500}
-            ><p className="textoNavBar"> Education </p><FaGraduationCap size={20} className="iconoNav"></FaGraduationCap></Link>
+            ><p className="textoNavBar"> Educación </p><FaGraduationCap size={20} className="iconoNav"></FaGraduationCap></Link>
             <Link
                 activeClass="active"
                 to="proyectos-container"

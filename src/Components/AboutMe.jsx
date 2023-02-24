@@ -5,7 +5,7 @@ function AboutMe(){
     return(
         <div className="containerAboutMe" id="aboutMe-container">
             <div className="tituloAboutMe">
-                <h1>About Me</h1>
+                <h1>Sobre mi</h1>
             </div>
             <div className="seccionesAboutMe">
                 <div className="imgAboutMe">
@@ -13,9 +13,9 @@ function AboutMe(){
                 </div>
                 <div className="textoAboutMe">
                     <h2 className="tituloTextoAboutMe">Tony Frieiro</h2>
-                    <p>Soy estudainte de desarrollo web full stack luego haber terminado el secuandrio tecnico en computacion donde adquiri mucho conocimiento</p>
-                    <p>En búsqueda de un desafío profesional que me permita crecer y aplicar los conocimientos que adquiri.</p>
-                    <p>Mi meta es continuar desarrollándome para alcanzar a ser un muy buen profesional</p>
+                    <p>En 2021 finalicé el secundario técnico especializado en computación, donde aprendí los fundamentos basico de la programación primero en pseudocódigo como PSeInt y luego en lenguajes como Python y Java.</p>
+                    <p>A la par del secundario fui aprendiendo desarrollo web mediante cursos. Luego de terminar el secundario decidí profundizar mi conocimiento en JavaScript por lo que a lo largo del año realice la carrera de desarrollo web full stack en Coderhouse (12 meses), complementando con material extra de distintos sitios y proyectos personales.</p>
+                    <p>Mi meta es continuar desarrollándome para alcanzar a ser un excelente profesional.</p>
                 </div>
             </div>
 
