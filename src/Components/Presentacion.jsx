@@ -12,11 +12,11 @@ function Presentacion(){
                     <p className="web">Desarrollador web full-stack</p>
                 </div>
                 <div className="container-parrafo">
-                    <p>Estudiante de desarrollo web full stack actualemnte en el final de la carrera con amplios conocimientos y ganas de seguir aprendiendo y probarlo en el ambito profesional</p>
+                    <p>Estudiante de desarrollo web full stack con amplios conocimientos, ganas de seguir aprendiendo y desarrollarme en el ambito profesional</p>
                 </div>
                 <div className="botonera">
                     <button className="button1">
-                        <a href={pdf} target="_blank" rel="noopener noreferrer">Descargar CV</a>
+                        <a href={pdf} target="_blank" rel="noopener noreferrer">DescargarCV</a>
                     </button>
                     <button className="button2">
                         <a href="mailto:tonyfrieiro@gmail.com?">Contacto</a>

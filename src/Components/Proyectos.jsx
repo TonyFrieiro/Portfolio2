@@ -45,7 +45,7 @@ function Proyectos(){
                     <div className="tarjetaP">
                         <div className="ajustesP">
                             <div className="container-tarjetaP">
-                                <img src="https://res.cloudinary.com/dthbpblty/image/upload/v1675041460/istockphoto-984996502-612x612_qivbzp.jpg" className="imgTarjeta" alt="" />
+                                <img src="https://res.cloudinary.com/dthbpblty/image/upload/v1677200660/CapturaFea_v9ate9.png" className="imgTarjeta" alt="" />
                             </div>
                             <div>
                                 <h3 className="subtituloProyectos">Login, Register, Ecommerce</h3>
@@ -55,7 +55,7 @@ function Proyectos(){
                             </div>
                             <div className="botonera">
                                 <button className="button2"><a href="https://github.com/TonyFrieiro/Backend/tree/main/ProyectoFinalMongo">Github</a></button>
-                                <button className="button1"><a href="https://media.istockphoto.com/id/984996502/pt/vetorial/coming-soon-vector-template-design.jpg?s=612x612&w=0&k=20&c=I2BHidTEc02FmSYD7ncyOSpVfMafXr6kfiVQ_v2-Uc8=">Demo</a></button>
+                                {/* <button className="button1"><a href="https://media.istockphoto.com/id/984996502/pt/vetorial/coming-soon-vector-template-design.jpg?s=612x612&w=0&k=20&c=I2BHidTEc02FmSYD7ncyOSpVfMafXr6kfiVQ_v2-Uc8=">Demo</a></button> */}
                             </div>
                         </div>
                     </div>

@@ -1,4 +1,6 @@
 import { Link } from "react-scroll";
+import { BsPersonLinesFill,BsTools,BsBookFill,BsLightbulbFill,BsPersonBoundingBox } from "react-icons/bs";
+import { FaGraduationCap} from "react-icons/fa";
 
 
 function Navbar(){
@@ -11,7 +13,7 @@ function Navbar(){
                 smooth={true}
                 offset={-70}
                 duration={500}
-            >Presentacion</Link>
+            ><p className="textoNavBar"> Presentacion</p><BsPersonLinesFill size={20} className="iconoNav"></BsPersonLinesFill></Link>
             <Link
                 activeClass="active"
                 to="aboutMe-container"
@@ -19,7 +21,7 @@ function Navbar(){
                 smooth={true}
                 offset={-70}
                 duration={500}
-            >AboutMe</Link>
+            ><p className="textoNavBar"> AboutMe </p><BsPersonBoundingBox size={20} className="iconoNav"></BsPersonBoundingBox></Link>
             <Link
                 activeClass="active"
                 to="skills-container"
@@ -27,7 +29,7 @@ function Navbar(){
                 smooth={true}
                 offset={-70}
                 duration={500}
-            >Skills</Link>
+            ><p className="textoNavBar"> Skills </p><BsTools size={20} className="iconoNav"></BsTools></Link>
             <Link
                 activeClass="active"
                 to="contenedor-education"
@@ -35,7 +37,7 @@ function Navbar(){
                 smooth={true}
                 offset={-70}
                 duration={500}
-            >Education</Link>
+            ><p className="textoNavBar"> Education </p><FaGraduationCap size={20} className="iconoNav"></FaGraduationCap></Link>
             <Link
                 activeClass="active"
                 to="proyectos-container"
@@ -43,7 +45,7 @@ function Navbar(){
                 smooth={true}
                 offset={-70}
                 duration={500}
-            >Proyects</Link>
+            ><p className="textoNavBar"> Proyectos </p><BsLightbulbFill size={20} className="iconoNav"></BsLightbulbFill></Link>
         </div>
 
     )

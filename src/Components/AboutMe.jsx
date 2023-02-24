@@ -14,8 +14,8 @@ function AboutMe(){
                 <div className="textoAboutMe">
                     <h2 className="tituloTextoAboutMe">Tony Frieiro</h2>
                     <p>Soy estudainte de desarrollo web full stack luego haber terminado el secuandrio tecnico en computacion donde adquiri mucho conocimiento</p>
-                    <p>En búsqueda de un desafío profesional que me permita crecer y aplicar los conocimientos adquiridos.</p>
-                    <p>Mi meta en continuar desarrollándome para alcanzar la excelencia profesional.</p>
+                    <p>En búsqueda de un desafío profesional que me permita crecer y aplicar los conocimientos que adquiri.</p>
+                    <p>Mi meta es continuar desarrollándome para alcanzar a ser un muy buen profesional</p>
                 </div>
             </div>
 
